@@ -1,0 +1,23 @@
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+body{
+    color: blue;
+    background-color: rgb(18, 201, 241);
+    border: 10px dotted darkblue;
+}
+
+.name_of_objects, #result_obj_name, #result_accuracy{
+    color: rgb(152, 23, 152);
+}
+
+#camera , #captured_img{
+border: 2px dashed blue ;
+border-radius: 20%;
+height: 300px;
+width: 350px ;
+}
+
+
